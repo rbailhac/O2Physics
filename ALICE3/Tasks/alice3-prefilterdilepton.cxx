@@ -30,7 +30,7 @@
 #include <Framework/runDataProcessing.h>
 #include <MathUtils/Utils.h>
 
-#include "Math/GenVector/VectorUtil.h"
+#include <Math/GenVector/VectorUtil.h>
 #include <Math/Vector4D.h>
 
 #include <unordered_map>
